@@ -1,4 +1,4 @@
-# Dashboard_Financ-asPessoais
+# Dashboard_FinançasPessoais
 Conceitos iniciais para dashboard com planilha do excel
 
 odConta-podcast-gerado-com-IA
